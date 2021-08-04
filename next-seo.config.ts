@@ -1,20 +1,20 @@
-const title = "Coding Castle – Web Development"
+const title = "Patrick Göler von Ravensburg – Web Developer"
 const description =
     "My name is Patrick Göler von Ravensburg and I'm a Full Stack Web Developer, Business Informatics Student and Space Enthusiast"
 
 const SEO = {
     title,
     description,
-    canonical: "https://codingcastle.dev",
+    canonical: "https://pgvr.dev",
     openGraph: {
         type: "website",
         locale: "en_DE",
-        url: "https://codingcastle.dev",
+        url: "https://pgvr.dev",
         title,
         description,
         images: [
             {
-                url: "https://codingcastle.dev/static/images/banner.png",
+                url: "https://pgvr.dev/static/images/banner.png",
                 alt: title,
                 width: 1280,
                 height: 720,
@@ -22,8 +22,8 @@ const SEO = {
         ],
     },
     twitter: {
-        handle: "@coding_castle",
-        site: "@coding_castle",
+        handle: "@patrick_gvr",
+        site: "@patrick_gvr",
         cardType: "summary_large_image",
     },
 }

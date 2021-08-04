@@ -5,20 +5,18 @@ export default function About() {
     return (
         <div className="prose dark:prose-light lg:prose-lg">
             <NextSeo
-                title="About Me - Coding Castle"
-                canonical="https://codingcastle.dev/about"
+                title="About Me - Patrick Göler von Ravensburg"
+                canonical="https://pgvr.dev/about"
                 openGraph={{
-                    url: "https://codingcastle.dev/about",
-                    title: "About Me – Coding Castle",
+                    url: "https://pgvr.dev/about",
+                    title: "About Me – Patrick Göler von Ravensburg",
                 }}
             />
             <h1>About Me</h1>
             <p>
-                Hey I'm Patrick Göler von Ravensburg, a business informatics student from Mannheim,
-                Germany. Besides my studies I work for{" "}
-                <Link href="https://aioneers.com/">Aioneers</Link> as a Software Engineer 👨‍💻. My
-                studies are coming to an end though, as I'm working on my master thesis in the area
-                of microservices.
+                Hey I'm Patrick Göler von Ravensburg, a business informatics student from
+                Schwetzingen, Germany. My studies are coming to an end though, as I'm working on my
+                master thesis in the area of microservices.
             </p>
             <h2>Work Experience</h2>
             <p>
@@ -28,11 +26,25 @@ export default function About() {
                 continue working with reduced load during the semester.
             </p>
 
+            <Link href="https://sap.com/">
+                <h4>SAP</h4>
+            </Link>
+            <small>
+                <strong>May 2021 - Now</strong>
+            </small>
+            <ul>
+                <li>
+                    Master Thesis: "Exploring the potential of Deno as a lightweight and
+                    secure-by-default runtime for powering sensitive lifecycle actions within
+                    Steampunk Control Plane"
+                </li>
+            </ul>
+
             <Link href="https://aioneers.com/">
                 <h4>Aioneers</h4>
             </Link>
             <small>
-                <strong>May 2020 - Now</strong>
+                <strong>May 2020 - April 2021</strong>
             </small>
             <ul>
                 <li>

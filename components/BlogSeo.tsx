@@ -11,14 +11,14 @@ type Props = {
 export default function BlogSeo({ title, summary, publishedAt, url, image }: Props) {
     const date = new Date(publishedAt).toISOString()
     const featuredImage = {
-        url: `https://codingcastle.dev${image}`,
+        url: `https://pgvr.dev${image}`,
         alt: title,
     }
 
     return (
         <>
             <NextSeo
-                title={`${title} – Coding Castle`}
+                title={`${title} – Patrick Göler von Ravensburg`}
                 description={summary}
                 canonical={url}
                 openGraph={{

@@ -63,7 +63,7 @@ export default function Footer() {
                         </g>
                     </svg>
                 </Link>
-                <Link href="mailto:hi@codingcastle.dev">
+                <Link href="mailto:mail@pgvr.dev">
                     <span className="sr-only">Email</span>
                     <svg className="h-5 w-5" viewBox="0 0 24 24">
                         <g

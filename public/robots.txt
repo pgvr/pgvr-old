@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://codingcastle.dev/sitemap.xml
+Sitemap: https://pgvr.dev/sitemap.xml

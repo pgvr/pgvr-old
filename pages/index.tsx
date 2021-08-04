@@ -6,9 +6,7 @@ import Title from "@/components/Title"
 export default function Home() {
     return (
         <>
-            <h1 className="text-3xl md:text-5xl tracking-tight font-bold mb-4">
-                Welcome to the Coding 🏰!
-            </h1>
+            <h1 className="text-3xl md:text-5xl tracking-tight font-bold mb-4">Hello there 👋</h1>
             <p className="mb-16 text-secondary">
                 My name is Patrick and I'm a web developer currently finishing my master thesis at
                 the University of Mannheim. Additionally I work as a Software Engineer at Aioneers
