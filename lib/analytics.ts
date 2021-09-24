@@ -11,12 +11,15 @@ export const useAnalytics = () => {
                 includedDomains: ["pgvr.dev"],
             })
         }
+
         function onRouteChangeComplete() {
             Fathom.trackPageview()
         }
+
         router.events.on("routeChangeComplete", onRouteChangeComplete)
+
         return () => {
             router.events.off("routeChangeComplete", onRouteChangeComplete)
         }
-    }, [])
+    }, [router.events])
 }
