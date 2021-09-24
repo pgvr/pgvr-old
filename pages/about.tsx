@@ -26,6 +26,24 @@ export default function About() {
                 continue working with reduced load during the semester.
             </p>
 
+            <Link href="https://mindlantic.com/">
+                <h4>Mindlantic</h4>
+            </Link>
+            <small>
+                <strong>May 2021 - Now</strong>
+            </small>
+            <ul>
+                <li>
+                    Lead the development of the Mindlantic application (B2B & B2C) with a strong
+                    focus on Developer Experience
+                </li>
+                <li>Design a scalable, cloud-based architecture for multiple environments</li>
+                <li>
+                    Create multiple CI/CD pipelines to ensure a rock-solid release cycle and
+                    increased productivity with preview deployments
+                </li>
+            </ul>
+
             <Link href="https://sap.com/">
                 <h4>SAP</h4>
             </Link>

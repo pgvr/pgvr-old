@@ -37,6 +37,12 @@ export default function Home() {
                 Projects
             </Title>
             <ProjectCard
+                title="Synk.so"
+                description="Easily import emails to Notion."
+                href="https://synk.so/"
+                icon="synk"
+            />
+            <ProjectCard
                 title="Music Mash"
                 description="Invite other people and this app generates a Spotify playlist according to the top tracks of each one."
                 href="https://music.codingcastle.dev/"

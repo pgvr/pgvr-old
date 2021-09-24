@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <footer className="flex flex-col items-center mb-8">
             <div className="flex space-x-4 mb-4">
-                <Link href="https://twitter.com/coding_castle">
+                <Link href="https://twitter.com/patrick_gvr">
                     <span className="sr-only">Twitter</span>
                     <svg className="h-5 w-5" viewBox="0 0 24 24">
                         <g
@@ -18,7 +18,7 @@ export default function Footer() {
                         </g>
                     </svg>
                 </Link>
-                <Link href="https://github.com/patrickgoeler">
+                <Link href="https://github.com/pgvr">
                     <span className="sr-only">Github</span>
                     <svg className="h-5 w-5" viewBox="0 0 24 24">
                         <g

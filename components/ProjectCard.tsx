@@ -4,7 +4,7 @@ type Props = {
     title: string
     description: string
     href: string
-    icon?: "musicmash" | "launchx" | "flute"
+    icon?: "musicmash" | "launchx" | "flute" | "synk"
 }
 
 export default function ProjectCard({ title, description, href, icon }: Props) {
@@ -17,6 +17,28 @@ export default function ProjectCard({ title, description, href, icon }: Props) {
             rel="noopener noreferrer"
         >
             <div className="flex items-center border border-gray-300 dark:border-gray-700 rounded p-4">
+                {icon === "synk" && (
+                    <div className="h-8 w-8 ml-2 mr-4">
+                        <span className="sr-only">Synk.so</span>
+                        <svg
+                            className="h-8 w-8 min-w-sm text-gray-900 dark:text-gray-100"
+                            viewBox="0 0 512 512"
+                            xmlns="http://www.w3.org/2000/svg"
+                        >
+                            <g clipPath="url(#clip0)">
+                                <path
+                                    d="M262.336 24.8145H473.225V258.945L262.336 24.8145ZM39.1426 162.217H37.0918C37.0918 115.277 49.8522 80.6413 75.373 58.3105C100.894 35.9798 140.201 24.8145 193.293 24.8145L473.225 364.561C473.225 409.678 461.034 441.921 436.652 461.289C412.954 480.202 374.217 489.658 320.441 489.658L39.1426 162.217ZM38.1172 254.502L241.145 490H38.1172V254.502Z"
+                                    fill="currentColor"
+                                />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0">
+                                    <rect width="512" height="512" fill="white" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </div>
+                )}
                 {icon === "musicmash" && (
                     <div className="h-8 w-8 ml-2 mr-4">
                         <span className="sr-only">Music Mash</span>
