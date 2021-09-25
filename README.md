@@ -2,6 +2,10 @@
 
 My name is Patrick, I'm a Full Stack Web Developer from Germany and I'm about to finish my masters degree in cooperation with SAP. You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 
+## &#128084; Projects
+
+My most recent side project is [Synk.so](https://synk.so). Check it out if you want to easily import emails to Notion.
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github-readme-stats.vercel.app/api?username=pgvr&count_private=true&show_icons=true">
