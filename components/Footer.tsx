@@ -32,7 +32,7 @@ export default function Footer() {
                         </g>
                     </svg>
                 </Link>
-                <Link href="https://www.linkedin.com/in/patrickgoeler">
+                <Link href="https://www.linkedin.com/in/pgvr">
                     <span className="sr-only">LinkedIn</span>
                     <svg className="h-5 w-5" viewBox="0 0 24 24">
                         <g
