@@ -55,4 +55,4 @@ Apart from coding, I also maintain a blog (if I find the time) - you can find my
 
 [1]: https://twitter.com/patrick_gvr
 [2]: https://github.com/pgvr
-[3]: https://www.linkedin.com/in/patrickgoeler/
+[3]: https://www.linkedin.com/in/pgvr/
