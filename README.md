@@ -1,6 +1,6 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Patrick, I'm a Full Stack Web Developer from Germany and I'm about to finish my masters degree in cooperation with SAP. You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
+My name is Patrick, I'm a Full Stack Web Developer from Germany. You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 
 ## &#128084; Projects
 
