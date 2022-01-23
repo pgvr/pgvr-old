@@ -14,23 +14,38 @@ export default function About() {
             />
             <h1>About Me</h1>
             <p>
-                Hey I'm Patrick Göler von Ravensburg, a business informatics student from
-                Schwetzingen, Germany. My studies are coming to an end though, as I'm working on my
-                master thesis in the area of microservices.
+                Hey I'm Patrick Göler von Ravensburg, a full stack web developer from Munich,
+                Germany. I graduated in Business Informatics with a masters degree from the
+                University of Mannheim in 2021.
             </p>
             <h2>Work Experience</h2>
             <p>
                 I started to work very early during my studies to complement the curriculum with
                 hands-on experience and industry practice. All positions were as a working student
                 which allows me to work full-time during the semester break (like an internship) and
-                continue working with reduced load during the semester.
+                continue working with reduced load during the semester. Since December 2021 I am now
+                working full-time as a full stack web developer.
             </p>
+
+            <Link href="https://tanso.io/">
+                <h4>Tanso</h4>
+            </Link>
+            <small>
+                <strong>December 2021 - Now</strong>
+            </small>
+            <ul>
+                <li>Architect a scalable, multi-tenant SaaS application</li>
+                <li>
+                    Fullstack feature development with a strong focus on UX and backend scalability
+                </li>
+                <li>Advanced DevOps work with Github Actions and Azure</li>
+            </ul>
 
             <Link href="https://mindlantic.com/">
                 <h4>Mindlantic</h4>
             </Link>
             <small>
-                <strong>May 2021 - Now</strong>
+                <strong>May 2021 - November 2021</strong>
             </small>
             <ul>
                 <li>
@@ -48,7 +63,7 @@ export default function About() {
                 <h4>SAP</h4>
             </Link>
             <small>
-                <strong>May 2021 - Now</strong>
+                <strong>May 2021 - November 2021</strong>
             </small>
             <ul>
                 <li>
