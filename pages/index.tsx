@@ -42,10 +42,10 @@ export default function Home() {
                 Projects
             </Title>
             <ProjectCard
-                title="Synk.so"
-                description="Easily import emails to Notion."
-                href="https://synk.so/"
-                icon="synk"
+                title="Kickbuddy"
+                description="Provides some utility tools to make playing Kickbase more fun."
+                href="https://kickbuddy.de/"
+                icon="kickbuddy"
             />
             <ProjectCard
                 title="Music Mash"
