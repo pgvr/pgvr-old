@@ -4,7 +4,7 @@ My name is Patrick, I'm a Full Stack Web Developer from Germany. You can find me
 
 ## &#128084; Projects
 
-My most recent side project is [Synk.so](https://synk.so). Check it out if you want to easily import emails to Notion.
+My most recent side project is [Kickbuddy](https://kickbuddy.de). Check it out if you want to easily import emails to Notion.
 
 ## &#x1f4c8; GitHub Stats
 
