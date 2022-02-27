@@ -23,14 +23,14 @@ export default function Home() {
             </Title>
 
             <BlogListItem
+                title="How to build a simple Raycast extension"
+                summary="Learn how to build your first Raycast extension. It's easier than you think!"
+                slug="raycast-extension"
+            />
+            <BlogListItem
                 title="Quick Tip: Take advantage of the official Next.js examples"
                 summary="Have you ever spent too much time trying to set something up with Next.js? Hopefully this quick tip can help you in the future."
                 slug="quick-tip-nextjs"
-            />
-            <BlogListItem
-                title="Build a Linktree clone in under 1 hour with Strapi, Next.js and GraphQL"
-                summary="Building a basic Linktree clone seems rather simple which is perfect for showcasing a bunch of technologies and how they work together. Strapi, GraphQL and Next.js are the main building blocks for this project while Tailwind and GraphQL Codegen help with efficiency and developer experience."
-                slug="linktree-clone"
             />
             <BlogListItem
                 title="How to get started with Web Development on Windows with the WSL in 2021"
