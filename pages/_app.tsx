@@ -4,15 +4,22 @@ import "@/styles/dracula.css"
 import Layout from "@/components/Layout"
 import { ThemeProvider } from "next-themes"
 import Head from "next/head"
-import React from "react"
+import React, { useEffect } from "react"
 import MDXComponents from "@/components/mdx/Index"
 import { MDXProvider } from "@mdx-js/react"
 import { DefaultSeo } from "next-seo"
 import SEO from "../next-seo.config"
-import { useAnalytics } from "@/lib/analytics"
+import splitbee from "@splitbee/web"
 
 export default function App({ Component, pageProps }: AppProps) {
-    useAnalytics()
+    useEffect(() => {
+        if (process.env.NODE_ENV === "production") {
+            splitbee.init({
+                apiUrl: "/sb-api",
+                scriptUrl: "/sb.js",
+            })
+        }
+    }, [])
     return (
         <ThemeProvider attribute="class">
             <MDXProvider components={MDXComponents}>
