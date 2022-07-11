@@ -1,10 +1,10 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
+# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 My name is Patrick, I'm a Full Stack Web Developer from Germany. You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 
 ## &#128084; Projects
 
-My most recent side project is [Kickbuddy](https://kickbuddy.de). Check it out if you want to easily import emails to Notion.
+My most recent side project is [Hyzerbase](https://hyzerbase.com). Check it out if you like Fantasy Disc Golf. 🥏
 
 ## &#x1f4c8; GitHub Stats
 
