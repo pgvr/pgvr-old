@@ -1,4 +1,4 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">
 
 My name is Patrick, I'm a Full Stack Web Developer from Germany. You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 
